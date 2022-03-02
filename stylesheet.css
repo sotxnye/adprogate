@@ -202,5 +202,5 @@ footer {
 }
 
 .fa-bars {
-  display: none;
+  visibility: hidden;
 }
