@@ -106,10 +106,6 @@ header {
   display: block;
 }
 
-.fa-bars {
-  display: none;
-}
-
 .lesson-wrapper {
   height: 500px;
   padding-bottom: 80px;
@@ -185,4 +181,7 @@ footer p {
 
 footer {
   padding-top: 30px;
+}
+.fa-bars {
+  display: none;
 }
