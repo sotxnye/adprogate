@@ -18,6 +18,7 @@
 /* For Smartphones */
 @media all and (max-width: 670px) {
   .fa-bars {
+    display: block;
     visibility: visible;
     float: right;
     font-size: 25px;
